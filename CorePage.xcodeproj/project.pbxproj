@@ -13,6 +13,7 @@
 		32BD6EEA20994F9600662C71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32BD6EE920994F9600662C71 /* Assets.xcassets */; };
 		32BD6EED20994F9600662C71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32BD6EEB20994F9600662C71 /* LaunchScreen.storyboard */; };
 		32BD6EF820994F9600662C71 /* CorePageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32BD6EF720994F9600662C71 /* CorePageTests.swift */; };
+		32BD6F03209A410900662C71 /* FeatureCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32BD6F02209A410900662C71 /* FeatureCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		32BD6EF320994F9600662C71 /* CorePageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CorePageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		32BD6EF720994F9600662C71 /* CorePageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorePageTests.swift; sourceTree = "<group>"; };
 		32BD6EF920994F9600662C71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32BD6F02209A410900662C71 /* FeatureCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				32BD6EE220994F9400662C71 /* AppDelegate.swift */,
 				32BD6EE420994F9400662C71 /* ViewController.swift */,
+				32BD6F02209A410900662C71 /* FeatureCollectionViewCell.swift */,
 				32BD6EE620994F9400662C71 /* Main.storyboard */,
 				32BD6EE920994F9600662C71 /* Assets.xcassets */,
 				32BD6EEB20994F9600662C71 /* LaunchScreen.storyboard */,
@@ -199,6 +202,7 @@
 			files = (
 				32BD6EE520994F9400662C71 /* ViewController.swift in Sources */,
 				32BD6EE320994F9400662C71 /* AppDelegate.swift in Sources */,
+				32BD6F03209A410900662C71 /* FeatureCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
